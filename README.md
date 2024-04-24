@@ -1,10 +1,10 @@
 # County Health Data
-Uninsured Adults and Children in NC
+* Uninsured Adults and Children in NC
 ### Contents
-*NC_Subset- The select portion of data used
-*Orginal Data- Entire County Health Data
-*Python Notebook- Where data was selected
-*Png Image- Visualization
+* NC_Subset- The select portion of data used
+* Orginal Data- Entire County Health Data
+* Python Notebook- Where data was selected
+* Png Image- Visualization
 ### What does the repository provide?
 * The data on Uninsured Adult and Uninsured Child Population in North Carolina 
 * The repository consists of a csv. file with all of the US County Health Data in 2014-2015, A csv. file with the uninsured adults and children in North Carolina, and a Python notebook showing how the North Carolina Data was filtered out from the large database
