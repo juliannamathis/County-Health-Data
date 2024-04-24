@@ -14,6 +14,7 @@ Uninsured Adults and Children in NC
 * at the top different folders can be clicked through 
 * download the csv. File to your preferred device to better view or save the data
 # Who maintains and contributes to the repository?
-* The data comes from [County Health Data]([CountyHealthData_2014-2015.csv](https://uncch.instructure.com/courses/50015/files/6377514?wrap=1))
+* The data comes from [County Health Data](https://uncch.instructure.com/courses/50015/files/6377514?wrap=1)
+* The specific NC Subset we are looking at is here [NC Subset](https://uncch.instructure.com/courses/50015/assignments/370911#:~:text=NC_subset.csv-,NC_subset,-.csv)
   
 	
