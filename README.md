@@ -22,6 +22,7 @@
 * The data comes from [County Health Data](https://uncch.instructure.com/courses/50015/files/6377514?wrap=1)
 * The specific NC Subset we are looking at is here [NC Subset](https://uncch.instructure.com/courses/50015/assignments/370911#:~:text=NC_subset.csv-,NC_subset,-.csv)
 ### Visualization
+* The Visualization was created on a website called [Data Wrapper](https://www.datawrapper.de) where you can create a free account and make visuals
 ![alt text](https://github.com/juliannamathis/County-Health-Data/blob/main/R9YUX--uninsured-people-in-nc-.png)
 
 	
